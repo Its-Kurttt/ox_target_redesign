@@ -3,6 +3,6 @@
 
 [![multiples.png](https://i.postimg.cc/yY8Hdjkm/multiples.png)](https://postimg.cc/V5pTZj9v)
 
-![Image Alt](https://ibb.co/MyLWvGVt)
+[![dual.png](https://i.postimg.cc/0j5Lz52k/dual.png)](https://postimg.cc/Ppc6cjw9)
 
-![Image Alt](https://ibb.co/dsyQxF19)
+[![singol.png](https://i.postimg.cc/D0CRLV8q/singol.png)](https://postimg.cc/T5Dkv4jw)
